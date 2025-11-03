@@ -1,16 +1,46 @@
-# Habit-Tracker
+# 🎯 Habit-Tracker
 
-This is a simple habit tracking application built with React and initialized using the Vite build tool.
+A simple, user-friendly habit tracking application built with **React** and the modern **Vite** build tool.
 
-## Project Setup
+-----
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Getting Started
 
-### Available Scripts
+Follow these steps to set up the project locally.
 
-* `npm start` or `npm run dev`: Starts the development server.
-* `npm run build`: Builds the project for production.
+### Prerequisites
 
-## Expanding the ESLint configuration
+Ensure you have **Node.js** installed (v18+ recommended).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/afom12/Habit-Tracker.git
+    cd Habit-Tracker
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Run the application:**
+    ```bash
+    npm run dev
+    ```
+    The app will open in your browser, typically at `http://localhost:5173/`.
+
+-----
+
+## ⚙️ Available Scripts
+
+| Command | Description |
+| :--- | :--- |
+| `npm run dev` / `npm start` | **Starts the development server** with hot reloading. |
+| `npm run build` | **Builds the project** for production into the `dist` directory. |
+| `npm run lint` | Runs ESLint to check code quality. |
+
+-----
+
+## 📄 License
+
+Distributed under the **MIT License**
